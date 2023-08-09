@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAutomation.Entities", "LibraryAutomation.Entities\LibraryAutomation.Entities.csproj", "{3325D28E-1E21-4A51-B06F-44A008B4FBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAutomation.DataAccess", "LibraryAutomation.DataAccess\LibraryAutomation.DataAccess.csproj", "{58968710-76C1-483C-8A6D-A7AC7BCAF9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAutomation.Business", "LibraryAutomation.Business\LibraryAutomation.Business.csproj", "{5A7864A8-AC69-409B-8C76-66E42709B992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAutomation.API", "LibraryAutomation.API\LibraryAutomation.API.csproj", "{96436CD8-1E32-410E-AFA4-78C037B76E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3325D28E-1E21-4A51-B06F-44A008B4FBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3325D28E-1E21-4A51-B06F-44A008B4FBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3325D28E-1E21-4A51-B06F-44A008B4FBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3325D28E-1E21-4A51-B06F-44A008B4FBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58968710-76C1-483C-8A6D-A7AC7BCAF9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58968710-76C1-483C-8A6D-A7AC7BCAF9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58968710-76C1-483C-8A6D-A7AC7BCAF9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58968710-76C1-483C-8A6D-A7AC7BCAF9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7864A8-AC69-409B-8C76-66E42709B992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7864A8-AC69-409B-8C76-66E42709B992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7864A8-AC69-409B-8C76-66E42709B992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7864A8-AC69-409B-8C76-66E42709B992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96436CD8-1E32-410E-AFA4-78C037B76E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96436CD8-1E32-410E-AFA4-78C037B76E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96436CD8-1E32-410E-AFA4-78C037B76E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96436CD8-1E32-410E-AFA4-78C037B76E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A202BD4-6938-49EE-AFEA-09D7B377080A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/mhndstunahan
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LibraryAutomation.API\\LibraryAutomation.API.csproj
+		SccProjectName1 = LibraryAutomation.API
+		SccLocalPath1 = LibraryAutomation.API
+		SccProjectUniqueName2 = LibraryAutomation.Business\\LibraryAutomation.Business.csproj
+		SccProjectName2 = LibraryAutomation.Business
+		SccLocalPath2 = LibraryAutomation.Business
+		SccProjectUniqueName3 = LibraryAutomation.DataAccess\\LibraryAutomation.DataAccess.csproj
+		SccProjectName3 = LibraryAutomation.DataAccess
+		SccLocalPath3 = LibraryAutomation.DataAccess
+		SccProjectUniqueName4 = LibraryAutomation.Entities\\LibraryAutomation.Entities.csproj
+		SccProjectName4 = LibraryAutomation.Entities
+		SccLocalPath4 = LibraryAutomation.Entities
+	EndGlobalSection
+EndGlobal
